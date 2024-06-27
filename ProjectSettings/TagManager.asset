@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 10
+  - Fundo 1
+  - Fundo 2
+  - 'Fundo 3 '
+  - Fundo 4
+  - Fundo 5
+  - Detalhes
+  - Detalhes
+  - 'Detalhes '
+  - Detalhes
+  - 'Detalhes '
+  - "Detalhes Ch\xE3o"
+  - "Ch\xE3o "
+  - Jogador
+  - Chuva
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1742384601
+    locked: 0
+  - name: Character
+    uniqueID: 1483097781
+    locked: 0
+  - name: Farground
+    uniqueID: 279970133
+    locked: 0
+  - name: 'Fundo '
+    uniqueID: 2849190675
+    locked: 0
+  - name: Primeiro Plano
+    uniqueID: 2237159849
+    locked: 0
+  - name: Segundo Plano
+    uniqueID: 3474959499
+    locked: 0
+  - name: Terceiro Plano
+    uniqueID: 879061533
+    locked: 0
+  - name: 'Quarto Plano '
+    uniqueID: 2948248701
+    locked: 0
+  - name: 'Quinto Plano '
+    uniqueID: 3301172059
+    locked: 0
+  - name: Sexto Plano
+    uniqueID: 1564549491
+    locked: 0
+  - name: "Detalhes de Ch\xE3o"
+    uniqueID: 2032409967
+    locked: 0
+  - name: "Ch\xE3o "
+    uniqueID: 3510248223
+    locked: 0
+  - name: Jogador
+    uniqueID: 2683091457
+    locked: 0
