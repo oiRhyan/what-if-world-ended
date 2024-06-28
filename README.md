@@ -37,7 +37,7 @@
 </p>
 
 <h1 align="center">
-   Desenvolvido por Rhyan Araujo Chaves @2024
+   Desenvolvido por Rhyan Araujo Chaves @2021
 </h1>
 
 
