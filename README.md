@@ -33,6 +33,16 @@ A base conceitual do jogo está ancorada na Agenda 2030, um projeto da ONU que v
 
 Para criar um jogo que pudesse impressionar e cativar todos os públicos, desejávamos desenvolver algo inovador e visualmente atraente. Nossa ideia foi integrar harmoniosamente jogabilidade, arte e efeitos sonoros, sem perder de vista a importância e o impacto do tema central.
 
+#Direção de Arte
+
+Um jogo que serviu como grande inspiração para este projeto foi o renomado "Dead Cells", criado pela [desenvolvedora]. Admiramos profundamente seu conceito de arte, que utiliza pixel-art e uma iluminação impecável. Inspirados por isso, buscamos na internet assets que pudessem servir como templates iniciais. Otimizamos todas as artes com os efeitos de luz dinâmica nativos da Unity Engine, construindo assim todo o sistema de iluminação para iniciar o desenvolvimento do jogo.
+
+Criamos cenários para testes de desempenho e movimentação. Inicialmente, nossa ideia era desenvolver um jogo cujo personagem fosse um arqueiro, permitindo ao jogador lançar flechas a longa e curta distância. No entanto, devido a restrições de tempo e resultados, decidimos descartar essa ideia e focar em um recurso mais adequado para o projeto.
+
+<div>
+  <img src
+</div>
+
 
 
 
