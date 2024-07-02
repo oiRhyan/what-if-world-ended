@@ -40,7 +40,7 @@ Um jogo que serviu como grande inspiração para este projeto foi o renomado "De
 Criamos cenários para testes de desempenho e movimentação. Inicialmente, nossa ideia era desenvolver um jogo cujo personagem fosse um arqueiro, permitindo ao jogador lançar flechas a longa e curta distância. No entanto, devido a restrições de tempo e resultados, decidimos descartar essa ideia e focar em um recurso mais adequado para o projeto.
 
 <div>
-  <img src
+  <img src="print1.webp"/>
 </div>
 
 
