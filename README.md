@@ -33,7 +33,7 @@ A base conceitual do jogo está ancorada na Agenda 2030, um projeto da ONU que v
 
 Para criar um jogo que pudesse impressionar e cativar todos os públicos, desejávamos desenvolver algo inovador e visualmente atraente. Nossa ideia foi integrar harmoniosamente jogabilidade, arte e efeitos sonoros, sem perder de vista a importância e o impacto do tema central.
 
-#Direção de Arte
+## Direção de Arte
 
 Um jogo que serviu como grande inspiração para este projeto foi o renomado "Dead Cells", criado pela [desenvolvedora]. Admiramos profundamente seu conceito de arte, que utiliza pixel-art e uma iluminação impecável. Inspirados por isso, buscamos na internet assets que pudessem servir como templates iniciais. Otimizamos todas as artes com os efeitos de luz dinâmica nativos da Unity Engine, construindo assim todo o sistema de iluminação para iniciar o desenvolvimento do jogo.
 
@@ -43,6 +43,9 @@ Criamos cenários para testes de desempenho e movimentação. Inicialmente, noss
   <img src="print1.webp"/>
 </div>
 
+## Otimização
+
+Para garantir um bom desempenho do jogo, foi necessário fazer alguns cortes de recursos e funcionalidades. Graças à Unity Engine, conseguimos configurar um sistema de renderização adaptável para cada dispositivo móvel, permitindo que o jogo rode com resoluções mais otimizadas e ajustadas.
 
 
 
